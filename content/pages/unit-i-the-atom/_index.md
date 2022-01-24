@@ -1,0 +1,15 @@
+---
+content_type: page
+title: 'Unit I: The Atom'
+uid: 36cc671a-c04c-270e-9cac-7a210efd6846
+---
+
+« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-1) »
+
+Unit I focuses on the building block of matter – the atom. Throughout this unit we reflect on the fundamental question of how we can understand and describe something that is too small to see. The unit starts with the amazing discovery of the electron and the nucleus and the subsequent realization that the classical laws of motion (classical mechanics) do not adequately describe the behavior of something as small as an electron, requiring the development of new laws of motion (quantum mechanics). Viewers can watch as hydrogen creates a spectrum of light waves, prompting the consideration of why only certain colors are generated and not others; i.e. why only certain energy transitions are possible. The Schrödinger equation is offered up as the key to explaining these colors as well as many other experimental findings. By the end of this unit, viewers should be able to apply the concept that there are discrete atomic energy levels and should be able to calculate binding and ionization energies for electrons. They should be able to describe wavefunctions (orbitals) and write electron configurations.
+
+|  {{< br >}}{{< br >}} ![]({{< resource_file c9d55ebf-d6f1-d1ba-a04b-955a9cb017e5 >}}) [Lecture 1: The Importance of Chemical Principles]({{< baseurl >}}/pages/unit-i-the-atom/lecture-1) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![]({{< resource_file aafc786b-207b-da7d-3122-e4d57755caf5 >}}) [Lecture 2: Atomic Structure]({{< baseurl >}}/pages/unit-i-the-atom/lecture-2) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![]({{< resource_file 078998c1-3433-fa2f-cbf3-23d2a0197d85 >}}) [Lecture 3: Wave-Particle Duality of Light]({{< baseurl >}}/pages/unit-i-the-atom/lecture-3) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![]({{< resource_file 030c4501-67ae-4d83-deaa-71626be2bb92 >}}) [Lecture 4: Wave-Particle Duality of Matter; Schrödinger Equation]({{< baseurl >}}/pages/unit-i-the-atom/lecture-4) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![]({{< resource_file 70f20273-f28b-4302-35bf-d08189ec3cbd >}}) [Lecture 5: Hydrogen Atom Energy Levels]({{< baseurl >}}/pages/unit-i-the-atom/lecture-5) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![]({{< resource_file c34c8fe7-4e0f-b8e9-ce9f-3776157b8c52 >}}) [Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)]({{< baseurl >}}/pages/unit-i-the-atom/lecture-6) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![]({{< resource_file 8bab447c-53bd-0e6a-a15b-48f68a9ca9a1 >}}) [Lecture 7: Multi-electron Atoms]({{< baseurl >}}/pages/unit-i-the-atom/lecture-7) {{< br >}}{{< br >}}  
+
+Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+
+« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-1) »
